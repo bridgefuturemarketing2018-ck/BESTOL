@@ -1,2 +1,0 @@
-# BESTOL
-Ads compliance platform
